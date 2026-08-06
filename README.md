@@ -17,6 +17,7 @@ Esse projeto foi desenvoldo do zero no curso de Java, foi um grande aprendizado 
 
 ## Arquitetura do Projeto 
 
+´´´text
 meu-projeto-springboot/
 ├── backend/            # API RESTful (Java / Spring Boot + Spring Data JPA + SQLite)
 │   ├── src/
