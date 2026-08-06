@@ -1,6 +1,7 @@
 # Sistema de Gestão de Produtos & Estoque (Full-Stack)
 
 > Aplicação web completa para gerenciamento de catálogo de produtos e controle de inventário. O projeto integra uma **API RESTful em Java/Spring Boot** a uma **interface dinâmica e acessível em Vanilla JS**.
+---
 
 Esse projeto foi desenvoldo do zero no curso de Java, foi um grande aprendizado vendo na pratica como tudo funciona por debaixo dos panos. Entre os principais aprendizados e desafios superados, destaco:
 
