@@ -1,6 +1,6 @@
 # Sistema de Gestão de Produtos & Estoque (Full-Stack)
 
-> Aplicação web completa para gerenciamento de catálogo de produtos e controle de inventário. O projeto integra uma **API RESTful em Java/Spring Boot** a uma **interface dinâmica e acessível em Vanilla JS**.
+Aplicação web completa para gerenciamento de catálogo de produtos e controle de inventário. O projeto integra uma **API RESTful em Java/Spring Boot** a uma **interface dinâmica e acessível em Vanilla JS**.
 
 Esse projeto foi desenvoldo do zero no curso de Java, foi um grande aprendizado vendo na pratica como tudo funciona por debaixo dos panos. Entre os principais aprendizados e desafios superados, destaco:
 
@@ -11,22 +11,6 @@ Esse projeto foi desenvoldo do zero no curso de Java, foi um grande aprendizado 
 3 - Consolidação das Bases do JavaScript: Optei por usar Vanilla JS exatamente para entender como o DOM funciona por baixo dos panos antes de migrar para frameworks como React.
 
 4 - Organização em Monorepo: Estruturar o projeto mantendo a separação clara de responsabilidades entre as pastas backend e frontend me ajudou a entender como funciona o fluxo de trabalho em equipes reais.
-
-
-
-
-## Arquitetura do Projeto 
-
-```text
-meu-projeto-springboot/
-├── backend/            # API RESTful (Java / Spring Boot + Spring Data JPA + SQLite)
-│   ├── src/
-│   └── pom.xml
-└── frontend/           # Client SPA (HTML5 + CSS3 + JS)
-    └── dist/
-        ├── css/
-        ├── js/
-        └── index.html
 
 
 ## Funcionalidades Principais
@@ -55,6 +39,22 @@ JavaScript (ES6+ Vanilla): Manipulação do DOM pura, sem a necessidade de frame
 VS Code & Live Server: Editor de código e servidor local para desenvolvimento ágil da interface.
 Git & GitHub: Controle de versão e organização do ecossistema em formato Monorepo.
 </ol>
+
+
+
+## Arquitetura do Projeto 
+
+```text
+meu-projeto-springboot/
+├── backend/            # API RESTful (Java / Spring Boot + Spring Data JPA + SQLite)
+│   ├── src/
+│   └── pom.xml
+└── frontend/           # Client SPA (HTML5 + CSS3 + JS)
+    └── dist/
+        ├── css/
+        ├── js/
+        └── index.html
+
 
 
 
