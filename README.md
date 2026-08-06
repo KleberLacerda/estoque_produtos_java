@@ -17,7 +17,6 @@ Esse projeto foi desenvoldo do zero no curso de Java, foi um grande aprendizado 
 
 ## Arquitetura do Projeto 
 
-``
 meu-projeto-springboot/
 ├── backend/            # API RESTful (Java / Spring Boot + Spring Data JPA + SQLite)
 │   ├── src/
@@ -40,21 +39,21 @@ Interface Acessível: Layout responsivo (Flexbox/Grid), anotações WAI-ARIA par
 
 
 ## HardSkill
-<ul>
+<ol>
 Back-end & Banco de Dados
 Java 22 & Spring Boot 3: Construção da API RESTful, controle de rotas e regra de negócio.
 Spring Data JPA / Hibernate: Mapeamento objeto-relacional (ORM) e abstração das consultas ao banco.
 SQLite: Banco de dados relacional leve e prático para o ambiente de desenvolvimento.
 IntelliJ IDEA: IDE principal utilizada para o desenvolvimento e depuração do ecossistema Java.
-</ul>
+</ol>
 
 Front-end & Ferramental Web
-<ul>
+<ol>
 HTML5 & CSS3: Estruturação semântica e estilização responsiva.
 JavaScript (ES6+ Vanilla): Manipulação do DOM pura, sem a necessidade de frameworks pesados no client-side.
 VS Code & Live Server: Editor de código e servidor local para desenvolvimento ágil da interface.
 Git & GitHub: Controle de versão e organização do ecossistema em formato Monorepo.
-</ul>
+</ol>
 
 
 
